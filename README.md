@@ -1,4 +1,5 @@
-# myfirstrepo
-## Editing the file
+# Peer Graded Assignment
+## Coursera
 
-It's a test.
+Create your Jupyter Notebook on IBM Watson Studio.
+Final assignment.
